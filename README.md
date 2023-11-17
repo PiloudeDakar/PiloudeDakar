@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/PiloudeDakar/MoneyAPI">MoneyAPI</a>
 - 🤔 I’m looking for help to make plugins from my API
-- 📫 How to reach me: Sensei#1806 on discord
+- 📫 How to reach me: senseito on discord
 - ⚡ Fun fact: I'll conquer the world !
 
 
